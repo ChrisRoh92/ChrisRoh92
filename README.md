@@ -1,7 +1,7 @@
 ### About Me
 - Passionated Android Developer 
-- Student of vehicle and engine technology (M.Sc.) @ University of Stuttgart - Specialized in automotive mechatronics and automated driving 
-- Mechanical Engineer (B.Eng) 
+- Student of Automotive and Engine Engineering (M.Sc.) @ University of Stuttgart - Specialized in automotive mechatronics and automated driving 
+- Mechanical Engineer (B.Eng)
 - YouTuber with my Coding Channel _CodingWithChris_   -   📺 [Youtube][youtube]
 - Find me on 👔 [LinkedIn][linkedin]
 
