@@ -15,7 +15,7 @@
 
 
 
-[youtube]: https://www.youtube.com/CodingWithChris
+[youtube]: https://www.youtube.com/channel/UCnHLNcYvReQqXrrR3Z7ktEA
 
 <!--
 **ChrisRoh92/ChrisRoh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
