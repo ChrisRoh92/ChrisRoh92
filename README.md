@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [SmartVocTrainer][smartvoctrainer]
 - 💬 Ask me about Help with Android
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRoh92)](https://github.com/anuraghazra/github-readme-stats)
 
 [youtube]: https://www.youtube.com/channel/UCnHLNcYvReQqXrrR3Z7ktEA
 [smartvoctrainer]: https://github.com/ChrisRoh92/SmartVocTrainer
