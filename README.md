@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Help with Android
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRoh92)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisRoh92&show_icons=true&theme=radical)
 
 [youtube]: https://www.youtube.com/channel/UCnHLNcYvReQqXrrR3Z7ktEA
 [divvyDiary]: https://github.com/ChrisRoh92/SmartVocTrainer
